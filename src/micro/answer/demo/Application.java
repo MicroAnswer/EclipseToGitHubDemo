@@ -7,6 +7,7 @@ public class Application {
 		//TODO 新增测试TODO 
 		System.out.println("哇咔咔,这个竟然也可以");
 		System.out.println("玩玩没想到,哈哈,这是一段在GitHub上面写下的代码");
+		System.out.println("再一次测试代码");
 	}
 
 }
