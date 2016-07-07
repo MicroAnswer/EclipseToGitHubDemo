@@ -5,6 +5,7 @@ public class Application {
 	public static void main(String[] args) {
 		System.out.println("这是Eclipse项目,用于发布到GitHub的测试");
 		//TODO 新增测试TODO 
+		System.out.println("哇咔咔,这个竟然也可以");
 	}
 
 }
